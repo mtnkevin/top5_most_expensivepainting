@@ -1,0 +1,165 @@
+
+    
+
+
+#painting{
+    text-align: center;
+    padding: 100px;
+    background-image: url(../media/maxresdefault.jpg);
+    color: purple;
+}
+#abc{
+    margin: center;
+}
+#def{
+    margin: center;
+}
+
+#navbar ul{
+    background-color: lightgoldenrodyellow;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    
+    
+    
+    
+}
+
+#navbar a{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 15px;
+    
+}
+#navbar li{
+    text-align: center;
+    
+
+}
+#navbar a:hover{
+    background-color: rgb(231, 224, 224);
+}
+#navbar li{
+    
+    float: right;
+    padding-right: 40px;
+    
+}
+#imgs{
+    width: 500px;
+    height: 500px;
+    padding: none;
+    
+}
+#about{
+    padding-right: 70px;
+
+}
+
+#ML{
+
+    float: left;
+    padding-right: 10px
+    
+}
+#SM{
+    
+    float: left;
+    padding-right: 10px
+}
+#TCP{
+   
+    float: left;
+    padding-right: 10px
+
+}
+#N17A{
+
+    float: left;
+    padding-right: 10px
+    
+}
+#ITC{
+   
+    float: left;
+    padding-right: 10px
+    
+}
+#ul{
+    
+    margin-bottom: 5px solid black;
+}
+
+#onea{
+    float: right;
+}
+#oneb{
+    float: right;
+}
+#onec{
+    float: right;
+}
+#color{
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.her{
+    color: white;
+    background-color: #072f57;
+   
+}
+
+
+
+#bottomnav ul{
+   
+    list-style-type: none;
+    
+   
+    
+}
+
+#bottomnav a{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 14px;
+
+}
+
+#bottomnav a:hover{
+    background-color: rgb(200, 235, 200);
+}
+
+#bottomnav li{
+    color: aliceblue;
+}
+
+
+
+
+#Nagato{
+    background-image: url(../media/b2.jpeg);
+background-size: 100%;
+
+}
+
+
+#bottomnav{
+    background-color:  lightcyan;
+}
+
+#Thethird{
+  
+   float: left;
+   padding-top: 7px;
+}
+
+#gmail2{
+    padding-top: 50%;
+    padding-right: 50%;
+}
